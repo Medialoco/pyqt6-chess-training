@@ -14,9 +14,7 @@ Main features:
 ## Stockfish
 
 ### What is it?
-**Stockfish** is one of the strongest open-source chess engines available.  
-It evaluates positions and suggests the best moves using the Universal Chess Interface (UCI) protocol.  
-This app runs Stockfish **locally**, so it works offline and without latency.
+**Stockfish** is one of the strongest open-source chess engines available. It evaluates positions and suggests the best moves using the Universal Chess Interface (UCI) protocol. This app runs Stockfish **locally**, so it works offline and without latency.
 
 ### Installation
 
@@ -32,8 +30,7 @@ This app runs Stockfish **locally**, so it works offline and without latency.
   ```
 
 - **Windows:**
-  Download a prebuilt binary from the [official Stockfish site](https://stockfishchess.org/download/)  
-  Set the path.
+  Download a prebuilt binary from the [official Stockfish site](https://stockfishchess.org/download/) 
 
 ---
 
@@ -62,3 +59,5 @@ This app runs Stockfish **locally**, so it works offline and without latency.
    - **Undo**: revert your last move
    - **Rotate board**: flip orientation
    - **Engine time (ms)**: adjust engine’s thinking time per move
+
+![App Screenshot](image.png)
