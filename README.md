@@ -1,4 +1,4 @@
-# PyQt6 Chess Trainer
+# PyQt6 Chess Training
 
 ## Description
 A lightweight chess training application built with **PyQt6** and **python-chess**. After each move you play (White or Black), the system immediately suggests the best move for the side to move (your opponent), using the Stockfish engine. You stay in full control: the engine never plays for you. It only highlights its recommended reply.
